@@ -1,4 +1,4 @@
-![](https://github.com/anhngoit/anhngo/blob/main/assets/banner.png?raw=true)
+![](https://github.com/anhngoit/anhngoit/blob/main/assets/banner.png?raw=true)
 <br />
 ### Hi there, I'm Anh "Steven" Ngo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
